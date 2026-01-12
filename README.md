@@ -13,6 +13,4 @@ Fig.1 Examples of created four GIRD datasets.
 Fig.2 Visual results of the ST3-Former and state-of-the-art DATNet on four GIRDs.
 </p>  
 
-<p align="left"> 
 The complete dataset, along with a part of model results, is publicly accessible via this [link](https://drive.google.com/file/d/1AmWG1gsEwqQXtkO4bVSpTdbrEA00ZSIt/view?usp=sharing). The full source code will be released in the near future.
-</p> 
